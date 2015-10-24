@@ -1,0 +1,1 @@
+# 1:t 2:x 3:y 4:z 5:P 6:Pmac 7:U 8:V 9:T_x 10:T_y 11:T_alpha 12:T_Hbx 13:T_Htx 14:T_Hby 15:T_Hty 16:Kmax 17:T 18:K
